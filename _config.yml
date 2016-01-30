@@ -1,0 +1,28 @@
+name: rshinglaiho
+favicon: null
+layout_spectrum: 0.17588774440810084
+typography_spectrum: 0.9508333052508533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.39975943183526397
+  lightness: 0.8924013650976121
+  saturation: 0.8456481678877026
+  rhythmicContrast: 0.6667193879839033
+purpose: []
